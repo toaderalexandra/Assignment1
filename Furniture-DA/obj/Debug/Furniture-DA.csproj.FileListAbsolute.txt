@@ -1,0 +1,8 @@
+E:\PS_Alexandra_Toader\Furniture\Furniture-DA\obj\Debug\Furniture-DA.csprojResolveAssemblyReference.cache
+E:\PS_Alexandra_Toader\Furniture\Furniture-DA\bin\Debug\Furniture-DA.dll.config
+E:\PS_Alexandra_Toader\Furniture\Furniture-DA\bin\Debug\Furniture-DA.dll
+E:\PS_Alexandra_Toader\Furniture\Furniture-DA\bin\Debug\Furniture-DA.pdb
+E:\PS_Alexandra_Toader\Furniture\Furniture-DA\bin\Debug\Furniture-Ob.dll
+E:\PS_Alexandra_Toader\Furniture\Furniture-DA\bin\Debug\Furniture-Ob.pdb
+E:\PS_Alexandra_Toader\Furniture\Furniture-DA\obj\Debug\Furniture-DA.dll
+E:\PS_Alexandra_Toader\Furniture\Furniture-DA\obj\Debug\Furniture-DA.pdb
